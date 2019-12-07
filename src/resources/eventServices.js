@@ -1,0 +1,32 @@
+const eventServices = [
+		{id:"1", label:"Beauty and make up"},
+		{id:"2", label:"Cakes"},
+		{id:"3", label:"Catering services"},
+		{id:"4", label:"Cleaning services"},
+		{id:"5", label:"Decor"},
+		{id:"6", label:"Designer/ Fashion"},
+		{id:"7", label:"Digital design"},
+		{id:"8", label:"Drinks"},
+		{id:"9", label:"Entertainers"},
+		{id:"10", label:"Event planner"},
+		{id:"11", label:"Event venue"},
+		{id:"12", label:"Floral"},
+		{id:"13", label:"Gift items"},
+		{id:"14", label:"Honey moon destinations"},
+		{id:"15", label:"Hostess"},
+		{id:"16", label:"Invitation cards"},
+		{id:"17", label:"Lighting & sound"},
+		{id:"18", label:"Music"},
+		{id:"19", label:"Photography"},
+		{id:"20", label:"Professional MC"},
+		{id:"21", label:"Rental"},
+		{id:"22", label:"Rings and jewelry"},
+		{id:"23", label:"Security services"},
+		{id:"24", label:"Shop"},
+		{id:"25", label:"Traditional attires"},
+		{id:"26", label:"Videography"},
+		{id:"27", label:"Wedding apparel"},
+		{id:"28", label:"Others..."}
+	]				 
+					 
+export default eventServices

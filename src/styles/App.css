@@ -1,0 +1,175 @@
+.App {
+  text-align: center;
+}
+
+header {
+  background-color: #282c34;
+  height: 400;
+  /*display: flex;
+  flex-direction: column;
+  /*align-items: center;*/
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+  color: white;
+}
+.bg_cover {
+  background-position: center center;
+  background-size: cover;
+  background-repeat: no-repeat;
+  width: 100%;
+  height: 100%; }
+
+h1{
+  text-align: center;
+  margin: 40px 0 20px;
+  font-weight:600;
+}
+
+.xl-font{
+  font-size: 100px;
+}
+
+.img-circle {
+    border-radius: 50%;
+}
+
+.img-xs{
+  width: 40px;
+  height: 40px;
+}
+
+.img-tiny{
+  width: 50px;
+  height: 50px;
+}
+
+.img-3045{
+  width: 30px;
+  height: 45px;
+}
+
+.img-6065{
+  width: 60px;
+  height: 65px;
+}
+
+.logo{
+  width: 150px;
+  height: 50px;
+}
+
+.img-medium{
+  width: 100px;
+  height: 100px;
+}
+
+.App-link {
+  color: #61dafb;
+}
+
+.navbar{
+  opacity: 0.9;
+}
+
+.transparent{
+  background-color: transparent;
+}
+
+.small-text{
+  font-size: 90%;
+}
+
+.no-bullet-list{
+  list-style-type: none;
+}
+
+.custom-list {
+    list-style: none;
+    padding-left: 0;
+}
+.custom-list li {
+    position: relative;
+    padding-left: 20px;
+}
+.custom-list li:before {
+    content: '';
+    width: 12px;
+    height: 12px;
+    position: absolute;
+    background-image: url(../images/tick.jpg);
+    background-size: cover;
+    background-position: center;
+    left: 0;
+    top: 15px;
+    transform: translateY(-50%);
+}
+
+.golden-list {
+    list-style: none;
+    padding-left: 0;
+}
+.golden-list li {
+    position: relative;
+    padding-left: 20px;
+}
+.golden-list li:before {
+    content: '';
+    width: 12px;
+    height: 12px;
+    position: absolute;
+    background-image: url(../images/golden-tick.jpg);
+    background-size: cover;
+    background-position: center;
+    left: 0;
+    top: 15px;
+    transform: translateY(-50%);
+}
+
+.ratings-list {
+    list-style: none;
+    padding-left: 0;
+}
+.ratings-list li {
+    position: relative;
+    padding-left: 24px;
+}
+.ratings-list li:before {
+    content: '';
+    width: 20px;
+    height: 20px;
+    position: absolute;
+    background-image: url(../images/star.jpg);
+    background-size: cover;
+    background-position: center;
+    left: 0;
+    top: 50%;
+    transform: translateY(-50%);
+}
+
+.two-columns {
+-webkit-column-count: 2;
+-moz-column-count: 2;
+column-count: 2;
+-webkit-column-gap: 30px;
+column-gap: 30px;
+-moz-column-gap: 30px;
+}
+
+.pagination>li.active>a {
+  background: purple;
+  color: #fff;
+}
+
+.btn-circle {
+  width: 80px;
+  height: 80px;
+  text-align: center;
+  padding: 6px 0;
+  font-size: 14px;
+  line-height: 1.428571429;
+  border-radius: 50%;
+}
+
+.h-80{
+  height:80;
+}
