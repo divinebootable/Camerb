@@ -55,25 +55,7 @@ class MainContent extends React.Component{
 					</div>
 				</div>
 
-				{/*PORTFOLIO*/}
-				{/*<div className="col-sm-12">
-					<h1 className="text-center">PORTFOLIO</h1>
-						<Carousel>
-							<Carousel.Item>
-								<Portfolio/>
-							</Carousel.Item>
 
-							<Carousel.Item>
-								<Portfolio/>
-							</Carousel.Item>
-
-							<Carousel.Item>
-								<Portfolio/>
-							</Carousel.Item>
-						</Carousel>
-				</div> */}
-
-				{/*SERVICES*/}
 				<div className="container-fluid">
 					<div className="container-fluid">
 						<h1>OUR SERVICES</h1>
@@ -103,13 +85,13 @@ class MainContent extends React.Component{
 
 				{/*TRUST CALMER*/}
 				<div className="container-fluid">
-					<h1>WHAT WE DO</h1>	
+					<h1>WHAT WE DO</h1>
 					<div className="row">
 						<div className="col-sm-6 mx-auto">
 							<h5><i>‘No matter how crazy your event fantasy is, try us: we will give it life’.</i></h5>
 							<p>
 								CALMER B Is Africa’s number 1 online market for all your event and tourism services.
-								We are committed to giving you the most memorable experience ever. 
+								We are committed to giving you the most memorable experience ever.
 
 							</p>
 
@@ -122,7 +104,7 @@ class MainContent extends React.Component{
 										the right path. We will find just the right strategy to bring your dream to life.
 									</p>
 								</li>
-								
+
 								<li>
 									<h5 className="font-weight-bold">Technical support</h5>
 									<p>
@@ -205,7 +187,7 @@ class MainContent extends React.Component{
 									<p>
 										For events that we will completely cover, we will assign someone to you who
 										will be in charge of your event/travel and will be our representative on the
-										ground over the next month’s up to the time of your event. They will be your handler 
+										ground over the next month’s up to the time of your event. They will be your handler
 									</p>
 									<ul className="no-bullet-list">
 										<li>Checklist: your handler will go through your goals with you and will design tasks and
@@ -232,7 +214,7 @@ class MainContent extends React.Component{
 										specimen book.
 									</p>
 								</li>
-									
+
 							</ul>
 						</div>
 					</div>
@@ -265,7 +247,7 @@ class MainContent extends React.Component{
 				</div>
 
 				{/*<Testimonials/>*/}
-				
+
 				{/*<Discussions/>*/}
 
 			</div>
